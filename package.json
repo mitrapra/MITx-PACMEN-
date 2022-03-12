@@ -1,7 +1,7 @@
 {
-  "name": "assignments",
+  "name": "Assignment",
   "version": "1.0.0",
-  "description": "week7 assignments unit test",
+  "description": "Module 7 Assignment: Unit Test",
   "main": "index.js",
   "scripts": {
     "test": "jest"
